@@ -1,0 +1,9 @@
+[This e-mail has been automatically generated.]
+
+Dear <%ACCODE%>,          
+***************************************************************************
+WebStatement Import successfully
+
+Transaction Date : <%date%>
+***************************************************************************
+by 
